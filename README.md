@@ -31,7 +31,7 @@ Hypothesis:
 
 Observations:
  
-
+![image](https://github.com/robayet002/Predictive-Analytics-for-Hotel-Booking-Patterns/assets/111728894/af320ecb-cfca-4ce1-9216-48dc02b6c29b)
 
 
 

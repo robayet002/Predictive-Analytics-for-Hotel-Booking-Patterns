@@ -32,7 +32,11 @@ Hypothesis:
 Observations:
  
 ![image](https://github.com/robayet002/Predictive-Analytics-for-Hotel-Booking-Patterns/assets/111728894/af320ecb-cfca-4ce1-9216-48dc02b6c29b)
-
+![image](https://github.com/robayet002/Predictive-Analytics-for-Hotel-Booking-Patterns/assets/111728894/95e55d66-fc71-41c3-9fe9-faf271b28614)
+![image](https://github.com/robayet002/Predictive-Analytics-for-Hotel-Booking-Patterns/assets/111728894/23a8039c-0922-47fb-86f1-637f26a3d091)
+![image](https://github.com/robayet002/Predictive-Analytics-for-Hotel-Booking-Patterns/assets/111728894/6aee25b9-d11a-4c97-ba9f-cddb640630f3)
+![image](https://github.com/robayet002/Predictive-Analytics-for-Hotel-Booking-Patterns/assets/111728894/a5191f84-d0dc-4dd3-b3b5-3708ea93c785)
+![image](https://github.com/robayet002/Predictive-Analytics-for-Hotel-Booking-Patterns/assets/111728894/2f7dd856-267c-4e49-aced-2df0025d8905)
 
 
 
